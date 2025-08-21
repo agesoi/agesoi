@@ -11,8 +11,9 @@ and that's all
 
 
 ---
-<h1 align="center" style="color: #ff006e; text-shadow: 0 0 10px #ff006e, 0 0 20px #ff006e;">BLADE RUNNER 2049</h1>
-
+<h1 align="center">
+  <code> BLADE RUNNER 2049 </code>
+</h1>
 <p align="center">
   <img src="https://giffiles.alphacoders.com/214/214441.gif" width="700" alt="Blade Runner Neon">
 </p>
