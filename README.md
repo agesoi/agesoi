@@ -51,6 +51,10 @@ BTW i use arch. damn
   <span style="color: #ffffff;">✦───────────────────────────────✦</span>
 </h3>
 
+<p align="center">
+  <img src="./nero2.gif" width="700"  alt="Nero DMC4_2">
+</p>
+
 ---
 
 ### SOUNDTRACK
