@@ -45,12 +45,14 @@ BTW i use arch. damn
 
 ---
 
-<h3 align="center">
-  <font color="white">✦───────────────────────────────✦</font><br>
-  <font color="#0088ff">"What's the point of packing a sword like that</font><br>
-  <font color="red">if you're not even gonna use it?"</font><br>
-  <font color="white">✦───────────────────────────────✦</font>
+<div align="center">
+<h3>
+<font color="gray">✦───────────────────────────────✦</font><br>
+<font color="#0088ff">"What's the point of packing a sword like that</font><br>
+<font color="#ff0000">if you're not even gonna use it?"</font><br>
+<font color="gray">✦───────────────────────────────✦</font>
 </h3>
+</div>
 
 <p align="center">
   <img src="./nero2.gif" width="700"  alt="Nero DMC4_2">
