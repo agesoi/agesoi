@@ -14,8 +14,9 @@ BTW i use arch. damn
 <h1 align="center">
   <code>THE DEVIL HUNTER - NERO</code>
 </h1>
+
 <p align="center">
-  <img src="./nero1.gif" width="700"  alt="Nero DMC4">
+  <img src="./nero1.gif" width="800"  alt="Nero DMC4">
 </p>
 
 ---
@@ -45,10 +46,10 @@ BTW i use arch. damn
 ---
 
 <h3 align="center">
-  <span style="color: #ffffff;">✦───────────────────────────────✦</span><br>
-  <span style="color: #0088ff;">"What's the point of packing a sword like that</span><br>
-  <span style="color: #ff0000;">if you're not even gonna use it?"</span><br>
-  <span style="color: #ffffff;">✦───────────────────────────────✦</span>
+  <font color="white">✦───────────────────────────────✦</font><br>
+  <font color="#0088ff">"What's the point of packing a sword like that</font><br>
+  <font color="red">if you're not even gonna use it?"</font><br>
+  <font color="white">✦───────────────────────────────✦</font>
 </h3>
 
 <p align="center">
