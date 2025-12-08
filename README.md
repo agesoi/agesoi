@@ -16,6 +16,10 @@ BTW i use arch. damn
   </a>
 </p>
 
+<p align="center">
+  <img src="./soul1.gif" width="700"  alt="soul_eater">
+</p>
+
 ---
 
 ### TECHNOLOGIES
@@ -48,7 +52,7 @@ BTW i use arch. damn
 </div>
 
 <p align="center">
-  <img src="./soul.gif" width="700"  alt="soul_eater">
+  <img src="./soul2.gif" width="700"  alt="soul_eater">
 </p>
 
 
