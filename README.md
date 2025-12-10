@@ -1,7 +1,7 @@
 # Hi there 👋
 
 # About Me
-Hobbyist in programming and demon hunting
+Hobbyist in programming and soul eater
 
 and that's all
 
