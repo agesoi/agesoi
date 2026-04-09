@@ -1,7 +1,7 @@
 # Hi there 👋
 
 # About Me
-Hobbyist in programming and soul eater
+Hobbyist in programming
 
 and that's all
 
@@ -9,16 +9,6 @@ BTW i use arch. damn
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram)](https://t.me/agesoi)
 
-
-<p align="center">
-  <a href="https://open.spotify.com/playlist/37i9dQZF1DX4sWSpwq3LiO" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-playlist-ff0000?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
-  </a>
-</p>
-
-<p align="center">
-  <img src="./soul1.gif" width="700"  alt="soul_eater">
-</p>
 
 ---
 
@@ -55,7 +45,11 @@ BTW i use arch. damn
   <img src="./soul2.gif" width="700"  alt="soul_eater">
 </p>
 
-
+<p align="center">
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DX4sWSpwq3LiO" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-playlist-ff0000?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+  </a>
+</p>
 
 
 
